@@ -1,0 +1,7 @@
+pandas
+numpy
+faiss-cpu
+transformers
+torch
+scikit-learn
+jupyter
